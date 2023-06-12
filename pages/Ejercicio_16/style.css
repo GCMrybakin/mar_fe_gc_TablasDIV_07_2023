@@ -1,0 +1,36 @@
+html,body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+table {
+    width: 70%;
+    outline-style: outset;
+    z-index: 1;
+    background-color: rgb(255, 255, 255);
+}
+
+th, td {
+    border-width: 1px;
+    border-style: inset;
+    text-align: center;
+    color: rgb(110, 40, 40);
+}
+
+.Amarillo {
+    background-color: rgb(253, 255, 148);
+}
+
+td {
+    background-color: rgb(254, 255, 205);
+}
+
+tr:first-child td {
+    background-color: rgb(65, 153, 73);
+}
+
+.DifPerro {
+    background-color: rgb(240, 187, 137);
+}
