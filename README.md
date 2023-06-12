@@ -57,3 +57,7 @@ Crear una tabla tal cual a la imagen.
 Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
   
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/1c3befec-f4ca-4956-b561-2e6e9c137ab7)
+
+  
+  
+  
