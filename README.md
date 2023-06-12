@@ -43,3 +43,7 @@ Crea el codigo html necesario para generar la siguiente página web
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/1fc65853-31b7-4123-b363-893ae2e201f3)
 
+## [Ejercicio 18]()
+Crea el código html necesarió para generar la siguiente página web. Recuerda que estos tres <div> han de aparecer en la misma página html.
+![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/2c921375-a190-4c82-afb1-c15a89117811)
+
