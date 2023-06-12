@@ -48,3 +48,8 @@ Crea el código html necesarió para generar la siguiente página web. Recuerda 
   
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/2c921375-a190-4c82-afb1-c15a89117811)
 
+## [Ejercicio 19]()
+Crear una tabla tal cual a la imagen.
+  
+![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/ec12ebe3-d5b5-4c8b-995e-dc2a6f9cd34b)
+
