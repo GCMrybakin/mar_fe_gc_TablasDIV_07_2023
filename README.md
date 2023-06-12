@@ -24,3 +24,10 @@ Crear una tabla tal cual a la imagen.
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/eba5293d-3175-4876-b633-46922f3b5017)
 
 
+## [Ejercicio 14]()
+Crear una tabla tal cual a la imagen.
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/c2124744-a30c-4375-8bb6-a943c55ff6b1)
+
+
+
