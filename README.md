@@ -18,7 +18,7 @@ UD04 – Tablas_DIV
 
 3. Guardar los cambios y comprobar el funcionamiento en un navegador.
 
-## [Ejercicio 13](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023//Ejercicio_13/Ejercicio_13.html)
+## [Ejercicio 13](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_13/Ejercicio_13.html)
 Crear una tabla tal cual a la imagen.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/eba5293d-3175-4876-b633-46922f3b5017)
