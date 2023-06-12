@@ -1,7 +1,7 @@
 # mar_fe_gc_TablasDIV_07_2023
 UD04 – Tablas_DIV
 
-## [Ejercicio 11](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_11/deportes/donde2.html)
+## [Ejercicio 11](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_11/deportes/donde2.html)
 1. Crear el documento donde.html, en la carpeta deportes.
 2. Modificar la página para colocar la lista de centros en una tabla como esta:
 
@@ -10,7 +10,7 @@ UD04 – Tablas_DIV
 3. Rectificar la tabla para que las celdas de la primera fila sean títulos de columna guardar en el documento donde2.html
 4. Guardar los cambios y comprobar el funcionamiento en un navegador.
 
-## [Ejercicio 12](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_11/deportes/instalaciones.html)
+## [Ejercicio 12](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_11/deportes/instalaciones.html)
 1. Crear el documento instalaciones.html, en la carpeta deportes.
 2. Crear la tabla que aparece para dejarla así:
 
@@ -18,32 +18,32 @@ UD04 – Tablas_DIV
 
 3. Guardar los cambios y comprobar el funcionamiento en un navegador.
 
-## [Ejercicio 13](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_13/Ejercicio_13.html)
+## [Ejercicio 13](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023//Ejercicio_13/Ejercicio_13.html)
 Crear una tabla tal cual a la imagen.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/eba5293d-3175-4876-b633-46922f3b5017)
 
 
-## [Ejercicio 14](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_14/Ejercicio_14.html)
+## [Ejercicio 14](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_14/Ejercicio_14.html)
 Crear una tabla tal cual a la imagen.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/c2124744-a30c-4375-8bb6-a943c55ff6b1)
 
-## [Ejercicio 15](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_15/Ejercicio_15.html)
+## [Ejercicio 15](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_15/Ejercicio_15.html)
 En este caso debes de averiguar cual será el código html-css para crear una lista ordenada. 
 Crea una página que muestre el siguiente texto:
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/3c69cac1-dabd-4ccc-9cc1-82a50d6f6f8f)
 
-## [Ejercicio 16](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_16/Ejercicio_16.html)
+## [Ejercicio 16](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_16/Ejercicio_16.html)
 En el documento que has abierto vamos a crear esta tabla:
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/aa524cde-8d11-498c-9bd1-32f943b80e08)
 
-## [Ejercicio 17](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_17/Ejercicio_17.html)
+## [Ejercicio 17](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_17/Ejercicio_17.html)
 Crea el codigo html necesario para generar la siguiente página web
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/1fc65853-31b7-4123-b363-893ae2e201f3)
 
-## [Ejercicio 18](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_18/Ejercicio_18.html)
+## [Ejercicio 18](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/pages/Ejercicio_18/Ejercicio_18.html)
 Crea el código html necesarió para generar la siguiente página web. Recuerda que estos tres <div> han de aparecer en la misma página html.
   
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/2c921375-a190-4c82-afb1-c15a89117811)
