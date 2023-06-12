@@ -34,5 +34,8 @@ En este caso debes de averiguar cual será el código html-css para crear una li
 Crea una página que muestre el siguiente texto:
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/3c69cac1-dabd-4ccc-9cc1-82a50d6f6f8f)
 
+## [Ejercicio 16]()
+En el documento que has abierto vamos a crear esta tabla:
+![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/aa524cde-8d11-498c-9bd1-32f943b80e08)
 
 
