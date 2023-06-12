@@ -17,7 +17,7 @@ tr:first-child th {
 }
 
 tr:nth-child(even) {
-    background-color: rgb(204,255,204);
+    background-color: rgb(204, 255, 204);
 }
 
 div {
