@@ -29,5 +29,10 @@ Crear una tabla tal cual a la imagen.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/c2124744-a30c-4375-8bb6-a943c55ff6b1)
 
+## [Ejercicio 15]()
+En este caso debes de averiguar cual será el código html-css para crear una lista ordenada. 
+Crea una página que muestre el siguiente texto:
+![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/3c69cac1-dabd-4ccc-9cc1-82a50d6f6f8f)
+
 
 
