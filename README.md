@@ -10,7 +10,7 @@ UD04 – Tablas_DIV
 3. Rectificar la tabla para que las celdas de la primera fila sean títulos de columna guardar en el documento donde2.html
 4. Guardar los cambios y comprobar el funcionamiento en un navegador.
 
-## [Ejercicio 12]()
+## [Ejercicio 12](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_11/deportes/instalaciones.html)
 1. Crear el documento instalaciones.html, en la carpeta deportes.
 2. Crear la tabla que aparece para dejarla así:
 
@@ -18,7 +18,7 @@ UD04 – Tablas_DIV
 
 3. Guardar los cambios y comprobar el funcionamiento en un navegador.
 
-## [Ejercicio 13]()
+## [Ejercicio 13](https://gcmrybakin.github.io/mar_fe_gc_TablasDIV_07_2023/Pages/Ejercicio_13/Ejercicio_13.html)
 Crear una tabla tal cual a la imagen.
 
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/eba5293d-3175-4876-b633-46922f3b5017)
