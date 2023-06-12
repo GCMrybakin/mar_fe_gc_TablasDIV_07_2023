@@ -38,4 +38,8 @@ Crea una página que muestre el siguiente texto:
 En el documento que has abierto vamos a crear esta tabla:
 ![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/aa524cde-8d11-498c-9bd1-32f943b80e08)
 
+## [Ejercicio 17]()
+Crea el codigo html necesario para generar la siguiente página web
+
+![image](https://github.com/GCMrybakin/mar_fe_gc_TablasDIV_07_2023/assets/135844963/aa524cde-8d11-498c-9bd1-32f943b80e08)
 
